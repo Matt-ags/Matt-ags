@@ -27,7 +27,7 @@ Aqui estão alguns projetos em que trabalhei ou estou trabalhando:
 
 | Projeto | Descrição | Créditos |
 |---------|-----------|----------|
-| [Sistema Solar Interativo](https://github.com/Matt-ags/Sistema-Solar) | Um projeto colaborativo que apresenta um modelo visual e interativo do sistema solar. Utilizando HTML, CSS e Bootstrap, criamos uma experiência educativa onde os usuários podem explorar os planetas, descobrir informações detalhadas sobre cada um e visualizar a disposição do sistema solar. Ideal para entusiastas de astronomia e para quem busca uma forma dinâmica de aprender sobre o universo. | Desenvolvido em colaboração com [ArthurCorreia213]
+| [Sistema Solar Interativo](https://github.com/Matt-ags/Sistema-Solar) | Um projeto colaborativo que apresenta um modelo visual e interativo do sistema solar. Utilizando HTML, CSS e Bootstrap, criamos uma experiência educativa onde os usuários podem explorar os planetas, descobrir informações detalhadas sobre cada um e visualizar a disposição do sistema solar. Ideal para entusiastas de astronomia e para quem busca uma forma dinâmica de aprender sobre o universo. | Desenvolvido em colaboração com [ArthurCorreia213](https://github.com/ArthurCorreia213) e [GBTorto](https://github.com/GBTorto).
 | [Formas CSS](https://github.com/Matt-ags/Formas-CSS) | Um projeto individual focado em treinar e aperfeiçoar habilidades em CSS. Explora a criação de diferentes formas geométricas e efeitos visuais usando apenas CSS. Fiquei muito satisfeito com os resultados e com o que aprendi durante o processo. | Desenvolvido individualmente. |
 
 ## Como entrar em contato comigo
