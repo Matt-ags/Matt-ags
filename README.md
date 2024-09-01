@@ -1,26 +1,55 @@
 # Olá, eu sou o Mateus! 👋
 
-<img src="https://abstartups.com.br/wp-content/uploads/2023/02/gato-trabalhando.gif" alt="Gato Trabalhando" height="150em"/>
+<br> 
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Matt-ags&show_icons=true&theme=dracula" alt="ilustração do status do github" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gprsilva&layout=compact&theme=dracula" />
+</div>
+
+<br>
 
 ## Sobre mim 
 
-- 🎓 Estudante de **Desenvolvimento de Sistemas** no Serviço Nacional de Aprendizagem Industrial (SENAI)
-- 📚 Estudante de **Engenharia da Computação** na Universidade Virtual do Estado de São Paulo (UNIVESP)
-- 👨‍💻 Atualmente aprendendo **JavaScript**
-- 🚀 Explorando novas tecnologias e desenvolvimento de software
-    
+<div style="display: inline_block">
+<img align='right'style="display: flex; align-items: center; gap: 20px;"  height="220px" src="https://64.media.tumblr.com/2c33f4e6e264cad6fe5b2695cb30472d/25d9c76169467b66-d6/s1280x1920/035495a3a3c126a54c7bc1117426a512748c9ab2.gif" alt="imagem" /> 
+ <div align="left">
 
-  </div>
+ - 🎓 Estudante de **Desenvolvimento de Sistemas** no Serviço Nacional de Aprendizagem Industrial (SENAI)
+ 
+-  📚 Estudante de **Engenharia da Computação** na Universidade Virtual do Estado de São Paulo (UNIVESP)
+ 
+-  👨‍💻 Atualmente aprendendo **JavaScript**
+ 
+-  🚀 Explorando novas tecnologias e desenvolvimento de software
 
+</div>
 </div>
 
 ## Tecnologias que estou aprendendo/interessado:
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+<div style="display:flex; justify-content:center; align-items:center">
+    
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+</div>
+
+## Ferramentas que estou aprendendo/interessado:
+
+<div style="display:flex; justify-content:center; align-items:center">
+    
+<img height="30px" width="100px" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+<img height="30px" width="100px" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<img height="30px" width="100px" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+<img height="30px" width="100px" src="https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white" />
+<img height="30px" width="100px" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
+
+</div>
+
+
+          
 
 ## Projetos Destacados
 Aqui estão alguns projetos em que trabalhei ou estou trabalhando:
@@ -32,4 +61,8 @@ Aqui estão alguns projetos em que trabalhei ou estou trabalhando:
 
 ## Como entrar em contato comigo
 - **LinkedIn:** [Mateus Santos](https://www.linkedin.com/in/mateus-santos-116619235/)
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6f0550&height=120&section=footer"/>
 
