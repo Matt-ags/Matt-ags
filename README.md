@@ -62,7 +62,11 @@ Aqui estão alguns projetos em que trabalhei ou estou trabalhando:
 ## Como entrar em contato comigo
 - **LinkedIn:** [Mateus Santos](https://www.linkedin.com/in/mateus-santos-116619235/)
 
-
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matt-ags/Matt-ags/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Matt-ags/Matt-ags/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6f0550&height=120&section=footer"/>
 
