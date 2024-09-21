@@ -127,7 +127,7 @@ Aqui estão alguns projetos em que trabalhei ou estou trabalhando:
 ## Como entrar em contato comigo
 
 <a href="https://www.linkedin.com/in/mateus-santos-116619235/" target="_blank"><img height="30px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="" target="_blank"><img height="30px" src="https://img.shields.io/badge/Credly-FF6C2C?style=for-the-badge&logo=credly&logoColor=white" /></a>
+<a href="https://www.credly.com/users/mateus-abner" target="_blank"><img height="30px" src="https://img.shields.io/badge/Credly-FF6C2C?style=for-the-badge&logo=credly&logoColor=white" /></a>
 <a href="https://www.cloudskillsboost.google/public_profiles/d4184149-858a-4cc6-85a2-1362c5700ac7" target="_blank"> <img height="30px" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" > </a>
 
 
