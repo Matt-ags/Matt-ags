@@ -1,8 +1,13 @@
 
 <div align="center" style="display: flex; align-items: center; justify-content: center;">  
   <img height="230px" src="https://github.com/user-attachments/assets/48ea5743-69bc-4d58-bda8-a952642960a7" alt="meu octocat" /> 
-  <h1 style="margin-left: 20px;">Olá, eu sou o Mateus! 👋</h1>
+  <h1 style="margin-left: 20px;">Olá, eu sou o Mateus! <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
+</picture> </h1>
 </div>
+
+
 
 <br><br> 
 
