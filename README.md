@@ -29,7 +29,7 @@
    
   -  📚 Estudante de *Engenharia da Computação* na Universidade Virtual do Estado de São Paulo (UNIVESP)
    
-  -  👨‍💻 Atualmente aprendendo *JavaScript*
+  -  👨‍💻 Atualmente aprendendo *JavaScript* e *SQL*
    
   -  🚀 Explorando novas tecnologias e desenvolvimento de software
   
@@ -45,6 +45,8 @@
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+          
+          
 
 </div>
 
@@ -57,6 +59,9 @@
 <img height="30px" width="100px" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 <img height="30px" width="100px" src="https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white" />
 <img height="30px" width="100px" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
+<img height="30px" width="100px" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+
+
 
 </div>
 
@@ -142,4 +147,13 @@ Aqui estão alguns projetos em que trabalhei ou estou trabalhando:
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
 
+<picture align="center">
+  
+  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+  
+</picture>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6f0550&height=120&section=footer"/>
+
+
+
