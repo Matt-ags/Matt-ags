@@ -36,103 +36,31 @@
   </div>
 </div>
 
-## Tecnologias que estou aprendendo/interessado:
+<br>
 
-<div style="display:flex; justify-content:center; align-items:center">
-    
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" />
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-          
-          
+## Tecnologias e Ferramentas que estou aprendendo/interessado:
 
-</div>
-
-## Ferramentas que estou aprendendo/interessado:
-
-<div style="display:flex; justify-content:center; align-items:center">
-    
-<img height="30px" width="100px" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-<img height="30px" width="100px" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img height="30px" width="100px" src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
-<img height="30px" width="100px" src="https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white" />
-<img height="30px" width="100px" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
-<img height="30px" width="100px" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-
-
-
-</div>
-
-
-          
-
-## Projetos Destacados
-Aqui estão alguns projetos em que trabalhei ou estou trabalhando:
-
-<details>
-  <summary>
-    <h4>Estudos Elementos 💻</h4>
-  </summary>
-  
-  <a href="https://github.com/Matt-ags/estudos-elementos" target="_blank">
-    <img height="30px" src="https://img.shields.io/badge/GitHub-Estudos%20Elementos-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>  
-  <p>Um projeto individual focado em estudar a criação de elementos como cartões com CSS, além de explorar animações e outros efeitos visuais. O objetivo é aprimorar habilidades em design front-end e interações visuais.</p>
-  Desenvolvido individualmente.
-</details>
-
-<details>
-  <summary>
-    <h4>Projeto Javascript em Grupo 🤝</h4>
-  </summary>
-  
-  <a href="https://github.com/ArthurCorreia213/Exercicio-JS-Grupo" target="_blank">
-    <img height="30px" src="https://img.shields.io/badge/GitHub-Projeto%20JS%20Grupo-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a> 
-  <a href="https://arthurcorreia213.github.io/Exercicio-JS-Grupo/" target="_blank">
-    <img height="30px" src="https://img.shields.io/badge/Deploy-Projeto%20JS%20Grupo-00D1B2?style=for-the-badge&logo=vercel&logoColor=white" />
+<p>
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,sqlserver" />
   </a>
-  <p>Desenvolvido no SENAI, este projeto em grupo foi um desafio focado em resolver problemas com JavaScript, desde verificação de números pares e ímpares até a criação de um jogo da forca. O projeto foi uma ótima oportunidade de aprendizado colaborativo.</p>
-  Desenvolvido em grupo com:
-  <a href="https://github.com/ArthurCorreia213" target="_blank">
-    <img height="30px" src="https://img.shields.io/badge/Arthur%20Correia-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+<p>
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap,nodejs,git" />
   </a>
-  <a href="https://github.com/GBTorto" target="_blank">
-    <img height="30px" src="https://img.shields.io/badge/Gabriel%20Morais-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+<p>
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,notion,canva" />
   </a>
-</details>
+</p>
+<p>
+  <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=react" />
+  </a>
+</p>
 
-<details>
-  <summary>
-    <h4>Sistema Solar Interativo 👩‍🚀</h4>
-  </summary>
-  
-  <a href="https://github.com/Matt-ags/Sistema-Solar" target="_blank">
-    <img height="30px" src="https://img.shields.io/badge/GitHub-Sistema%20Solar%20Interativo-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>  
-  <p>Um projeto colaborativo que apresenta um modelo visual e interativo do sistema solar. Utilizando HTML, CSS e Bootstrap, criamos uma experiência educativa onde os usuários podem explorar os planetas, descobrir informações detalhadas sobre cada um e visualizar a disposição do sistema solar. Ideal para entusiastas de astronomia e para quem busca uma forma dinâmica de aprender sobre o universo.</p>
-  Desenvolvido em colaboração com:
-  <a href="https://github.com/ArthurCorreia213" target="_blank">
-    <img height="30px" src="https://img.shields.io/badge/Arthur%20Correia-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/GBTorto" target="_blank">
-    <img height="30px" src="https://img.shields.io/badge/Gabriel%20Morais-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</details>
-
-<details>
-  <summary>
-    <h4>Formas CSS 🤖</h4>
-  </summary>
-  
-  <a href="https://github.com/Matt-ags/Formas-CSS" target="_blank">
-    <img height="30px" src="https://img.shields.io/badge/GitHub-Formas%20CSS-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>  
-  <p>Um projeto individual focado em treinar e aperfeiçoar habilidades em CSS. Explora a criação de diferentes formas geométricas e efeitos visuais usando apenas CSS
-
-</details>
 
 ## Como entrar em contato comigo
 
