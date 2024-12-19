@@ -47,7 +47,7 @@
 </p>
 <p>
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap,nodejs,git" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap,nodejs,git,pycharm" />
   </a>
 </p>
 <p>
@@ -57,7 +57,7 @@
 </p>
 <p>
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=react" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=react,python" />
   </a>
 </p>
 
