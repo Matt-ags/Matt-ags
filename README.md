@@ -13,7 +13,7 @@
 
 <div align="center">
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Matt-ags&show_icons=true&theme=dracula" alt="ilustração do status do github" /> 
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matt-ags&layout=compact&theme=dracula" alt="linguagens mais usadas" />
+  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matt-ags&theme=dracula&show_icons=true&hide_border=false&layout=compact" alt="linguagens mais usadas" />
 </div>
 
 <br>
