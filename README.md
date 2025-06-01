@@ -29,7 +29,7 @@
    
   -  📚 Estudante de *Engenharia da Computação* na Universidade Virtual do Estado de São Paulo (UNIVESP)
    
-  -  👨‍💻 Atualmente aprendendo *JavaScript* e *SQL*
+  -  👨‍💻 Atualmente aprendendo *Python*
    
   -  🚀 Explorando novas tecnologias e desenvolvimento de software
   
