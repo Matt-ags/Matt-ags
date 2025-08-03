@@ -29,7 +29,7 @@
    
   -  📚 Estudante de *Engenharia da Computação* na Universidade Virtual do Estado de São Paulo (UNIVESP)
    
-  -  👨‍💻 Atualmente aprendendo *Python*
+  -  👨‍💻 Atualmente aprendendo *Python* e *C++*
    
   -  🚀 Explorando novas tecnologias e desenvolvimento de software
   
@@ -57,7 +57,7 @@
 </p>
 <p>
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=react,python" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,cpp" />
   </a>
 </p>
 
