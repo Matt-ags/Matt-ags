@@ -7,18 +7,6 @@
 </picture> </h1>
 </div>
 
-
-
-<br><br> 
-
-<div align="center">
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Matt-ags&show_icons=true&theme=dracula&hide_border=True&layout=compact" alt="ilustração do status do github" /> 
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matt-ags&theme=dracula&show_icons=true&hide_border=True&layout=compact" alt="linguagens mais usadas" />
-</div>
-
-<br>
-
-
 ## Sobre mim 
 
 <div style="display: inline_block">
