@@ -1,26 +1,23 @@
+<img width="2560" height="560" alt="Mateus santos" src="https://github.com/user-attachments/assets/506ed255-4aac-4309-a844-251deb6f7234" />
 
-<div align="center" style="display: flex; align-items: center; justify-content: center;">  
-  <img height="230px" src="https://github.com/user-attachments/assets/48ea5743-69bc-4d58-bda8-a952642960a7" alt="meu octocat" /> 
-  <h1 style="margin-left: 20px;">Olá, eu sou o Mateus! <picture>
-  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32">
-</picture> </h1>
-</div>
+<picture align="center">
+  
+  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
+  
+</picture>
 
 ## Sobre mim 
 
 <div style="display: inline_block">
-<img align='right'style="display: flex; align-items: center; gap: 20px;"  height="220px" src="https://64.media.tumblr.com/2c33f4e6e264cad6fe5b2695cb30472d/25d9c76169467b66-d6/s1280x1920/035495a3a3c126a54c7bc1117426a512748c9ab2.gif" alt="imagem" /> 
+<img align='right'style="display: flex; align-items: center; gap: 40px;"  height="180px" src="https://64.media.tumblr.com/2c33f4e6e264cad6fe5b2695cb30472d/25d9c76169467b66-d6/s1280x1920/035495a3a3c126a54c7bc1117426a512748c9ab2.gif" alt="imagem" /> 
    <div align="left">
   
-   - 🎓 Estudante de *Desenvolvimento de Sistemas* no Serviço Nacional de Aprendizagem Industrial (SENAI)
+   - 🎓 Formado como *Técnico em Desenvolvimento de Sistemas* pelo SENAI 
    
   -  📚 Estudante de *Engenharia da Computação* na Universidade Virtual do Estado de São Paulo (UNIVESP)
    
-  -  👨‍💻 Atualmente aprendendo *Python* e *C++*
-   
-  -  🚀 Explorando novas tecnologias e desenvolvimento de software
-  
+  -  🚀 Interesse em áreas que envolvam **sistemas computacionais aplicados**, automação, hardware e software trabalhando juntos — indo além do código isolado.
+
   </div>
 </div>
 
@@ -28,26 +25,53 @@
 
 ## Tecnologias e Ferramentas que estou aprendendo/interessado:
 
-<p>
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,sqlserver" />
-  </a>
-</p>
-<p>
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap,nodejs,git,pycharm" />
-  </a>
-</p>
-<p>
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,notion,canva" />
-  </a>
-</p>
-<p>
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,cpp" />
-  </a>
-</p>
+<table align="center" width="100%">
+
+  <tr align="center">
+    <th width="50%"><h3>Ferramentas</h3></th>
+    <th width="50%"><h3>Bancos de Dados</h3></th>
+  </tr>
+
+  <tr align="center" height="100px">
+    <td width="50%">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,figma,notion,canva" />
+    </td>
+    <td width="50%">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver,mysql" />
+    </td>
+  </tr>
+
+  <tr align="center">
+    <th width="50%"><h3>Front-end</h3></th>
+    <th width="50%"><h3>Back-end</h3></th>
+  </tr>
+
+  <tr align="center" height="100px">
+    <td width="50%">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js,bootstrap" />
+    </td>
+    <td width="50%">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=python,nodejs" />
+    </td>
+  </tr>
+
+  <tr align="center">
+    <th width="50%"><h3>Linguagens</h3></th>
+    <th width="50%"><h3>Hardware & Sistemas</h3></th>
+  </tr>
+
+  <tr align="center" height="100px">
+    <td width="50%">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=python,js,cpp,java" />
+    </td>
+    <td width="50%">
+      <img src="https://go-skill-icons.vercel.app/api/icons?i=arduino" />
+    </td>
+  </tr>
+
+</table>
+
+
 
 
 ## Como entrar em contato comigo
@@ -57,17 +81,6 @@
 <a href="https://www.cloudskillsboost.google/public_profiles/d4184149-858a-4cc6-85a2-1362c5700ac7" target="_blank"> <img height="30px" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" > </a>
 
 
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matt-ags/Matt-ags/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Matt-ags/Matt-ags/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-</picture>
-
-<picture align="center">
-  
-  ![Status](./profile-3d-contrib/profile-night-rainbow.svg)
-  
-</picture>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6f0550&height=120&section=footer"/>
 
